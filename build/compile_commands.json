@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/munta/Developer/raycasting-raylib/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/munta/Developer/raycasting-raylib/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/output.dir/src/main.c.o -c /Users/munta/Developer/raycasting-raylib/src/main.c",
+  "file": "/Users/munta/Developer/raycasting-raylib/src/main.c",
+  "output": "CMakeFiles/output.dir/src/main.c.o"
+}
+]
